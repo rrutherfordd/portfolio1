@@ -1,0 +1,92 @@
+﻿/* This is the first sytlesheet for the portfolio project */
+body {
+    background: left;
+    background-color:aliceblue;
+    background-size: auto;
+    color:chocolate;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font: normal;
+    padding-left: 11em;
+}
+header { 
+    elevation:higher;
+    font-family:'Times New Roman', Times, serif;
+    font: normal;
+}
+h1 {
+    color: red;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font:small-caps;
+    font-weight: bolder;
+}
+ol.navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position:absolute;
+    top: 2em;
+    left: 1em;
+    width: 8em;
+}
+nav {
+    font: bold;
+    font-style: italic;
+}
+table {
+    border: dashed;
+    empty-cells: hide;
+    table-layout: auto;
+}
+tr {
+    text-decoration-style: solid;
+}
+td {
+    font-size: 24px;
+}
+a:link {
+    color: green;
+}
+a:visited {
+    color: red;
+}
+section {
+    text-shadow:20px 12px 2px #808080;
+}
+article {
+    vertical-align: central;
+}
+h2 {
+    text-emphasis: dot;
+}
+p {
+    padding:1em;
+    background-color:pink;
+    color: darkorange;
+    text-align: left;
+    border:hidden;
+}
+img {
+    align-content: space-around;
+    image-rendering: optimizeQuality;
+}
+aside {
+    padding:2px 3px 4px 5px;
+    font-kerning: normal;
+}
+ul {
+    margin-bottom:2px;
+}
+li {
+    height:4px;
+    padding: 8px;
+}
+footer {
+    outline:3px solid purple;
+    letter-spacing: 2px;
+}
+hr {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    fill: black;
+}
